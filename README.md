@@ -61,9 +61,13 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
   <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
 </p>
 
-> 📲 Pair Code Authentication
+> 📲 Pair Code Authentication 1
 
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvinxd-pairsession.onrender.com/pair)
+
+> 📲 Pair Code Authentication 2
+
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvin-session-27hw.onrender.com/pair)
 
 > 📱 QR Code Authentication
 
@@ -71,7 +75,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 
 
-> 📲 Starcore pair
+> 📲 Starcore pair 3
 
 [![Starcore Session](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://starcore-pairing.onrender.com/pair/)
 
